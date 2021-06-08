@@ -123,6 +123,9 @@ body {
   }
   .desc-box {
     flex-direction: row;
+    justify-content: space-around;
+    padding-right: 80px;
+    padding-left: 20px;
   }
 }
 @media (min-width: 1000px) and (max-width: 1440px) {
